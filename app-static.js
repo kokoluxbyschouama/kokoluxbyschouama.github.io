@@ -20,7 +20,7 @@ const DEFAULT_ANIMATION = 3;
 const NB_ANIMATIONS	 = 4;
 const ANIMATION_FORCES  = { 1: 3, 2: 3, 3: 3, 4: 3 };
 const AUDIO_ON		  = 1 === 1;
-const DEBUG_ON		  = 0 === 1;
+const DEBUG_ON		  = 1 === 1;
 
 /* ════════════════════════════════════════════
    STOCKAGE DES DONNÉES
