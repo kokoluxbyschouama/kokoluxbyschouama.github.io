@@ -286,7 +286,7 @@
 		<activite id="kokolux" type_image="Logo Activités / Rubrique / Page">
 			<sound>sounds/kokolux.mp3</sound>
 			<nom>KOKOLUX by Schouama</nom>
-			<defaultVisual>img/Logo_KOKOLUX_bySchouama.avif</defaultVisual>
+			<defaultVisual>img/Logo_Decouvre_nous.avif</defaultVisual>
 			<subtitle>Le naturel au service de votre bien-être</subtitle>
 			<description>Des huiles naturelles soigneusement sélectionnées pour la cuisine et pour nourrir vos cheveux, hydrater votre peau et révéler votre éclat au quotidien.</description>
 			<telephone>237687097558</telephone>
@@ -295,7 +295,7 @@
 			<next>actualites</next>
 			<previousText>← Précédent</previousText>
 			<nextText>Suivant →</nextText>
-			<menu_label/>
+			<menu_label></menu_label>
 			<visible>1</visible>
 			<zone id="kokoluxhistoire" type_image="Image Item">
 				<nom>Notre histoire</nom>
@@ -494,7 +494,7 @@
 			<next>kokolux</next>
 			<previousText>← Précédent</previousText>
 			<nextText>Suivant →</nextText>
-			<menu_label/>
+			<menu_label></menu_label>
 			<visible>1</visible>
 			<zone id="actu" type_image="Image Item">
 				<nom>Actualités</nom>
