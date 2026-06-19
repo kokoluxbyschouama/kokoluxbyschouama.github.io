@@ -1,7 +1,7 @@
 /* ================================================
 	   APP-STATIC.JS
 	   Version statique de app.js, générée par build-dynamique.py.
-	
+
 	   La différence avec app.js :
 	   - Plus de fetch() XML : le HTML contient déjà toutes les données
 		 dans des attributs data- (zone-data, item-data).
